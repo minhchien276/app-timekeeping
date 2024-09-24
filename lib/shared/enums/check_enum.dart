@@ -1,0 +1,4 @@
+enum CheckEnum {
+  checkIn,
+  checkOut,
+}

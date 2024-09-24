@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "345006052683",
+    "project_id": "happy-new-year-9c3c5",
+    "storage_bucket": "happy-new-year-9c3c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345006052683:android:90670dec2201a8937d04ce",
+        "android_client_info": {
+          "package_name": "com.tmsc.etmsc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQpWl2ieVoh_bh8O0r68GcaTkX33WhVAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

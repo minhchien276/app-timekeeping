@@ -1,0 +1,4 @@
+enum UserEnum {
+  my,
+  other,
+}
